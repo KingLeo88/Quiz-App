@@ -1,0 +1,82 @@
+[
+    {
+      "question": "Out of all the places I want to visit, which one is the number one spot I want to visit?",
+      "choice1": "Barcelona",
+      "choice2": "Paris",
+      "choice3": "Italy",
+      "choice4": "Rome",
+      "answer" : 3
+    },
+    {
+     "question": "If I had to choose another career path what would it be?",
+     "choice1": "Accountant",
+     "choice2": "Professional Athlete",
+     "choice3": "Entrepreneur",
+     "choice4": "None of the Above",
+     "answer" : 1
+    },
+    {
+     "question":"Which of the following states did I visit the most out of the other three?",
+     "choice1":"Pennsylvania ",
+     "choice2":"Atlanta",
+     "choice3":"Washington D.C",
+     "choice4":"Virgina",
+     "answer" : 1
+    },
+    {
+     "question":"What was the worst injury I've ever had?",
+     "choice1": "Cut above my eye",
+     "choice2": "Twisting my ankle",
+     "choice3": "Scraping my chin and chest on a wooden table",
+     "choice4": "Knee OCD",
+     "answer" : 4
+    },
+    {
+     "question": "If I could change something about myself what would it be?",
+     "choice1": "Stop Procasting so much",
+     "choice2": "Take more risks",
+     "choice3": "Eating more healthy",
+     "choice4": "Reduce the amount of money I spend",
+     "answer" : 4
+    },
+    {
+     "question":"How tall was I when I entered high school?",
+     "choice1": "6'0",
+     "choice2": "5'10",
+     "choice3": "5'11",
+     "choice4": "6'1",
+     "answer" : 1
+    },
+    {
+     "question":"Which of the following actors did I meet in real life and got a picture with?",
+     "choice1": "Liev Schreiber",
+     "choice2": "Taraji P. Henson",
+     "choice3": "Tom Cruise",
+     "choice4": "Brad Pitt",
+     "answer" : 1
+    },
+    {
+     "question":"What is my favorite type of Liquor?",
+     "choice1": "Gin",
+     "choice2": "Brandy",
+     "choice3": "Rum",
+     "choice4": "Vodka",
+     "answer" : 4
+    },
+    {
+     "question":"What was my fastest time ever recorded for a 50m freestyle (2 laps)?",
+     "choice1": "30 seconds",
+     "choice2": "27 seconds",
+     "choice3": "29 seconds",
+     "choice4": "35 seconds",
+     "answer" : 2
+    },
+    {
+     "question":"Growing up, What was my best and worst subject?",
+     "choice1": "Best: English, Worst: Math",
+     "choice2": "Best: History, Worst: Science",
+     "choice3": "Best: Math, Worst: History",
+     "choice4": "Best: Science, Worst: English",
+     "answer" : 3
+    }
+  ]
